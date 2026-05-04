@@ -94,9 +94,9 @@ nav:
         - classes/15-query-opt/tpcb.md
         - classes/15-query-opt/intro-indexes.md
         - classes/15-query-opt/pratica-indexes.md
-    #       - Parte II:
-    #           - classes/15-query-opt/indexes-views-subqueries.md
-    #           - classes/15-query-opt/pg-read-replica.md
+      - Parte II:
+        - classes/15-query-opt/indexes-views-subqueries.md
+        - classes/15-query-opt/pg-read-replica.md
     #       - Parte III:
     #           - classes/15-query-opt/api.md
     #   - 16 - System Design:
