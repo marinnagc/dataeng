@@ -36,7 +36,7 @@ A APS é individual. Crie seu repositório no [Classroom](https://classroom.gith
 
 **Obs**:
 
-- Os serviços de armazenamento não serão especificados. Você pode utilizar o que achar mais adequado (ex: `PostgreSQL`, `MongoDB`, `S3`, `minio`, etc), desde que consiga justificar sua escolha.
+- Os serviços de armazenamento não serão especificados. Você pode utilizar o que achar mais adequado (ex: `PostgreSQL`, `MongoDB`, `S3`, `SeaweedFS`, etc), desde que consiga justificar sua escolha.
 
 ## Códigos de Exemplo
 

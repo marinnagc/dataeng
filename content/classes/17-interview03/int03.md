@@ -10,10 +10,6 @@ Decida com seu colega quem será o **Entrevistador 1** ou o **Entrevistador 2**.
 
 Depois, acesse o formulário correspondente ao seu papel!
 
-- [**Entrevistador Um**](./): [**TO BE RELEASED**](./)
+- [**Entrevistador Um**](https://forms.gle/JMPR2weh6dmkoL8V7): [Acesse este formulário se você for o Entrevistador Um](https://forms.gle/JMPR2weh6dmkoL8V7)
 
-- [**Entrevistador Dois**](./): [**TO BE RELEASED**](./) 
-
-<!-- - [**Entrevistador Um**](./): [Acesse este formulário se você for o Entrevistador Um](./)
-
-- [**Entrevistador Dois**](./): [Acesse este formulário se você for o Entrevistador Dois](./) -->
+- [**Entrevistador Dois**](https://forms.gle/YcAghYbPyUV3WPKW6): [Acesse este formulário se você for o Entrevistador Dois](https://forms.gle/YcAghYbPyUV3WPKW6)
